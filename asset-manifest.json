@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Viacheslav-Penskoy/goit-react-hw-01-components/static/css/main.6d2beeba.css",
-    "main.js": "/Viacheslav-Penskoy/goit-react-hw-01-components/static/js/main.16adf0f5.js",
-    "index.html": "/Viacheslav-Penskoy/goit-react-hw-01-components/index.html",
-    "main.6d2beeba.css.map": "/Viacheslav-Penskoy/goit-react-hw-01-components/static/css/main.6d2beeba.css.map",
-    "main.16adf0f5.js.map": "/Viacheslav-Penskoy/goit-react-hw-01-components/static/js/main.16adf0f5.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.6d2beeba.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.16adf0f5.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.6d2beeba.css.map": "/goit-react-hw-01-components/static/css/main.6d2beeba.css.map",
+    "main.16adf0f5.js.map": "/goit-react-hw-01-components/static/js/main.16adf0f5.js.map"
   },
   "entrypoints": [
     "static/css/main.6d2beeba.css",
