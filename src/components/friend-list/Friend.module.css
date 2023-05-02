@@ -22,12 +22,12 @@
 }
 
 .online {
-    composes: status;
+    ime-mode: status;
     background-color: green;
 }
 
 .offline {
-    composes: status;
+    ime-mode: status;
     background-color: red;
 }
 
